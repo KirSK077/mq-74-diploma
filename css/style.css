@@ -272,6 +272,7 @@
 .post {
   display: flex;
   justify-content: space-between;
+  align-items: start;
   margin-bottom: 60px;
 }
 
